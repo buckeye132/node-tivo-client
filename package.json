@@ -1,0 +1,25 @@
+{
+  "name": "node-tivo-client",
+  "version": "0.1.0",
+  "description": "TCP/IP client for TiVo DVR",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buckeye132/node-tivo-client.git"
+  },
+  "author": "buckeye132",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buckeye132/node-tivo-client/issues"
+  },
+  "homepage": "https://github.com/buckeye132/node-tivo-client#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "enum": "^2.5.0"
+  }
+}
